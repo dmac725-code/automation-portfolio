@@ -1,0 +1,14 @@
+Name,Email,Phone,Company,City,State,Notes,Duplicates_Merged
+John Smith,john.smith@acme.com,(555) 123-4567,Acme Corp,New York,NY,VIP client,Yes - 2 records merged
+Jane Doe,jane@widgets.io,(555) 987-6543,Widgets Inc,Los Angeles,CA,Referred by John,Yes - 2 records merged
+Bob Johnson,bob.j@techsolutions.com,(555) 222-3333,Tech Solutions,Chicago,IL,Needs follow up,Yes - 2 records merged (email recovered)
+Mary Williams,mary@sample.org,(555) 444-5555,Sample Co,Houston,TX,Q2 prospect,Yes - 2 records merged (name recovered)
+Tom Davis,tom.davis@davis.net,(555) 111-0000,Davis & Associates,Denver,CO,,Yes - 2 records merged (invalid email removed)
+Sarah Connor,sc@future.com,(555) 333-7777,Future Tech,San Francisco,CA,New lead - follow up Q3,Yes - 2 records merged (valid phone recovered)
+Mike Brown,mike@brown.com,(555) 666-8888,Brown LLC,Austin,TX,,Yes - 2 records merged
+Chris Lee,chris@lee.io,(555) 999-0001,Lee Consulting,Seattle,WA,Priority,Yes - 2 records merged
+Amy Zhang,amy.z@bigcorp.com,(555) 777-2222,BigCorp International,Boston,MA,Enterprise client - $500K pipeline,Yes - 2 records merged
+Pat Wilson,pat@wilson.org,(555) 888-3333,Wilson Group,Miami,FL,Updated company name,Yes - 2 records merged
+Lisa Garcia,lisa.g@startupx.com,(555) 444-1111,StartupX,Portland,OR,Series A - hot lead,Yes - 2 records merged
+Kevin Park,kevin@park.dev,(555) 222-9999,Park Development,Nashville,TN,,Yes - 2 records merged
+Rachel Kim,rachel@kimco.com,(555) 333-4444,Kim & Company,Atlanta,GA,Referred by Amy Zhang,Yes - 2 records merged

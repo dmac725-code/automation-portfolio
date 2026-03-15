@@ -1,0 +1,29 @@
+Name,Email,Phone,Company,City,State,Notes
+John Smith,john.smith@acme.com,(555) 123-4567,Acme Corp,New York,NY,VIP client
+john smith,JOHN.SMITH@ACME.COM,5551234567,ACME CORP,new york,ny,vip client
+Jane Doe,jane@widgets.io,555.987.6543,Widgets Inc,,CA,
+JANE DOE,jane@widgets.io,(555) 987-6543,widgets inc,Los Angeles,ca,Referred by John
+Bob Johnson,,555-222-3333,Tech Solutions,Chicago,IL,
+bob johnson,bob.j@techsolutions.com,555-222-3333,Tech Solutions,chicago,il,needs follow up
+,mary@sample.org,(555) 444-5555,Sample Co,Houston,TX,
+Mary Williams,mary@sample.org,5554445555,Sample Co.,houston,tx,Q2 prospect
+Tom Davis,tom.davis@NULL,555-111-0000,,Denver,CO,
+Tom Davis,tom.davis@davis.net,(555) 111-0000,Davis & Associates,Denver,CO,
+sarah connor,sc@future.com,N/A,Future Tech,San Francisco,CA,new lead
+Sarah Connor,sc@future.com,(555) 333-7777,Future Tech,San Francisco,ca,New lead - follow up Q3
+Mike Brown,mike@brown.com,(555) 666-8888,Brown LLC,Austin,TX,
+mike brown,mike@brown.com,555-666-8888,Brown LLC,austin,Texas,
+,,,,,,
+  ,  ,  ,  ,  ,  ,
+Chris Lee,chris@lee.io,(555) 999-0001,Lee Consulting,Seattle,WA,
+CHRIS LEE,CHRIS@LEE.IO,5559990001,Lee consulting,seattle,Washington,Priority
+Amy Zhang,amy.z@bigcorp.com,(555) 777-2222,BigCorp International,Boston,MA,Enterprise client
+amy zhang,amy.z@bigcorp.com,555-777-2222,Bigcorp International,boston,Massachusetts,enterprise client - $500K pipeline
+Pat Wilson,pat@wilson.org,(555) 888-3333,,Miami,FL,
+Pat Wilson,pat@wilson.org,(555) 888-3333,Wilson Group,miami,Florida,Updated company name
+Lisa Garcia,lisa.g@startupx.com,555 444 1111,StartupX,Portland,OR,Series A
+lisa garcia,lisa.g@startupx.com,(555) 444-1111,Startup X,Portland,or,series A - hot lead
+Kevin Park,kevin@park.dev,(555) 222-9999,Park Development,Nashville,TN,
+kevin park,Kevin@Park.dev,5552229999,park development,Nashville,tn,
+Rachel Kim,rachel@kimco.com,(555) 333-4444,Kim & Company,Atlanta,GA,Referred by Amy
+rachel kim,rachel@kimco.com,555-333-4444,Kim & Company,atlanta,Georgia,referred by amy zhang

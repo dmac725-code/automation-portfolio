@@ -1,0 +1,16 @@
+Date,Rep,Client,Product,Amount,Status
+2026-03-01,Sarah K,Apex Industries,Enterprise Plan,15000,Closed
+2026-03-01,Mike R,Bolt Technologies,Starter Plan,2500,Closed
+2026-03-02,Sarah K,Cedar Holdings,Enterprise Plan,18000,Pending
+2026-03-02,Lisa T,DataFlow Inc,Professional Plan,7500,Closed
+2026-03-03,Mike R,Echo Systems,Starter Plan,2500,Lost
+2026-03-03,Sarah K,Frontier Group,Professional Plan,7500,Closed
+2026-03-04,Lisa T,GreenPath Co,Enterprise Plan,15000,Pending
+2026-03-04,Mike R,Harbor Tech,Professional Plan,7500,Closed
+2026-03-05,Sarah K,Ivy Consulting,Starter Plan,2500,Closed
+2026-03-05,Lisa T,JetStream LLC,Enterprise Plan,18000,Closed
+2026-03-06,Mike R,Kite Dynamics,Professional Plan,7500,Lost
+2026-03-06,Sarah K,Luminary Corp,Enterprise Plan,15000,Closed
+2026-03-07,Lisa T,Metro Solutions,Starter Plan,2500,Closed
+2026-03-07,Mike R,Nova Partners,Professional Plan,7500,Pending
+2026-03-07,Sarah K,Orbit Inc,Enterprise Plan,18000,Closed
